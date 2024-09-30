@@ -69,12 +69,15 @@ The code provided in this repository covers different sections of the assignment
    pip install numpy matplotlib scipy
 
 2. Run the environment and observe the agent's actions:
+   ```bash
     python Environment.py
    
 3. To run Dynamic Programming, execute:
+   ```bash
     python DynamicProgramming.py
    
 4. To run Q-learning, SARSA, or other experiments:
+    ```bash
     python Q_learning.py
     python SARSA.py
     python Nstep.py
