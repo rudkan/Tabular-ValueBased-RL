@@ -1,4 +1,4 @@
-# Tabular Reinforcement Learning Assignment
+# Tabular Reinforcement Learning (Stochastic Windy Gridworld)
 
 ## Project Overview
 
